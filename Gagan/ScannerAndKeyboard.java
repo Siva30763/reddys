@@ -1,3 +1,4 @@
+# adding comment
 import java.util.Scanner;
 
 public class ScannerAndKeyboard
